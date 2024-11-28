@@ -36,6 +36,6 @@
   "devDependencies": {
     "postcss": "^8.4.35",
     "prettier": "^3.2.5",
-    "stylelint": "^15.11.0"
+    "stylelint": "^16.11.0"
   }
 }
