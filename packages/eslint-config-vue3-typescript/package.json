@@ -33,7 +33,7 @@
     "eslint-plugin-vue": "^9.23.0"
   },
   "devDependencies": {
-    "eslint": "^8.57.0",
+    "eslint": "^9.16.0",
     "prettier": "^3.2.5",
     "typescript": "^5.1.3"
   }
