@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "@ombro/fetchin-locale": "workspace:*",
-    "axios": "^0.28.0"
+    "axios": "^1.7.9"
   },
   "publishConfig": {
     "access": "public",
