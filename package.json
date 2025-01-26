@@ -55,7 +55,7 @@
     "execa": "^6.1.0",
     "husky": "^9.0.11",
     "inquirer": "^9.2.16",
-    "lint-staged": "^14.0.1",
+    "lint-staged": "^15.4.3",
     "prettier": "^3.2.5",
     "rimraf": "^5.0.5",
     "tsx": "^4.7.1",
