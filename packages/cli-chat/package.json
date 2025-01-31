@@ -37,9 +37,9 @@
     "@ombro/cli-helper": "workspace:^",
     "@ombro/is-main": "workspace:^",
     "@ombro/logger": "workspace:^",
-    "dotenv": "^16.4.5",
-    "inquirer": "^9.2.16",
-    "openai": "^4.47.1"
+    "dotenv": "^16.4.7",
+    "inquirer": "^9.3.7",
+    "openai": "^4.82.0"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.7"
