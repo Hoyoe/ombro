@@ -5,7 +5,7 @@
   "repository": "git@github.com:Cphayim/ombro.git",
   "license": "MIT",
   "engines": {
-    "node": ">=v16.20.2"
+    "node": ">=22.13.1"
   },
   "packageManager": "pnpm@9.0.4",
   "scripts": {
@@ -44,7 +44,7 @@
     "@trivago/prettier-plugin-sort-imports": "^4.3.0",
     "@types/fs-extra": "^11.0.4",
     "@types/inquirer": "^9.0.7",
-    "@types/node": "^18.19.24",
+    "@types/node": "^22.13.0",
     "@typescript-eslint/eslint-plugin": "^5.62.0",
     "@typescript-eslint/parser": "^5.62.0",
     "@vitest/coverage-v8": "^0.34.6",
