@@ -3,7 +3,7 @@
   "version": "2.0.1",
   "description": "Shared TypeScript tsconfig.json",
   "engines": {
-    "node": ">=v16.20.2"
+    "node": ">=22.13.1"
   },
   "keywords": [
     "tsconfig",
